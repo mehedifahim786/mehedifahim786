@@ -1,6 +1,6 @@
 ### Assalamu Alaikum Wa Rahmatullah 🤲🏻, I'm Mehedi Fahim!
 
-- 🔭 I’m currently working on [KYAU Campus](https://kyaucampus.com)
+- 🔭 I’m currently working on Something Else
 - 🌱 I’m learning Android Development and Machine Learning
 - 💬 Ask me about Python, Java, Kotlin, and AI
 - ⚡ Fun fact: I love coding and watching movies
